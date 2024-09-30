@@ -7,6 +7,18 @@
 
 <table width='100%'>
   <tr>
+       <td align="center" width="96">
+      <a href="#amangeldi-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
+      </a>
+      <br>Html5
+    </td>
+   <td align="center" width="96"> 
+      <a href="#amangeldi-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
+      </a>
+      <br>Css3
+    </td>
     <td align="center" width="96">
       <a href="#debabin-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
@@ -51,31 +63,19 @@
       </a>
       <br>Redux
     </td>
-     <td align="center" width="96"> 
-      <a href="#amangeldi-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="48" height="48" alt="css3" />
-      </a>
-      <br>Css3
-    </td>
-    <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="48" height="48" alt="Html5" />
-      </a>
-      <br>Html5
-    </td>
     <td align="center" width="96"> 
       <a href="#amangeldi-stack" >
         <img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
       </a>
       <br>Vite
     </td> 
-    <td align="center" width="96">
+  </tr> 
+   <td align="center" width="96">
       <a href="#amangeldi-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
-  </tr> 
     <tr>
      <td align="center" width="96">
       <a href="#debabin-stack">
