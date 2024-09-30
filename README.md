@@ -1,6 +1,6 @@
 ## Обо мне:
 
-Занимаюсь front-end разработкой более 2х лет.
+Занимаюсь Front-end разработкой более 2х лет.
 Открыт к новым вызовам и стремлюсь к внедрению современных технологий в свою работу. Опыт научил меня ценить важность коммуникации и быстрой адаптации. Стремлюсь к профессиональному росту и получению новых знаний.
 
 <h2 align="left" id="debabin-stack">Tech stack</h2>
@@ -74,12 +74,6 @@
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-   <td align="center" width="96">
-      <a href="#amangeldi-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
     </td>
   </tr> 
     <tr>
